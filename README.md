@@ -4,7 +4,7 @@
 
   
   <div>
-<h1>🙊 About Me: </h1>
+<h1> About Me: </h1>
   <p>
   🔭 I just started studying codes <br>🤝 Help is always accepted!<br>💬 Let's chat!<br> 
     
