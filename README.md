@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:93FB9D,100:09C7FB">
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JettBrains+Mono&duration=5100&pause=1000&color=F7F7F6&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Kaio+Mendes+%F0%9F%A4%99%F0%9F%8F%BD" />
   </a>
