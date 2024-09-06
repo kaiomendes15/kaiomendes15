@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="https://git.io/streak-stats" style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:start;align-items:start">
-    <img src="https://streak-stats.demolab.com?user=kaiomendes15&theme=gotham&hide_border=true&border_radius=50" style="margin-right:1%"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaiomendes15&theme=gotham&hide_border=true&exclude_days=Sun" alt="" /></a>
     <img style="align-self:center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomendes15&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=30" style="margin-bottom:1%"/>
   </a>
 </p>
