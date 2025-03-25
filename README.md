@@ -10,7 +10,7 @@
 ## About Me
  <p>Computer Science Student at Universidade de Fortaleza (UNIFOR). <br> I am fascinated by technology and I enjoy being immersed in environments that stimulates my competitiveness.</p>
 
-## 📚 languagens and tools
+## 📚 languages and tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,8 +35,8 @@
 
 
 
-- 🤝 Help is always accepted!
-- 💬 Let's chat!
+- 🤝 Help is always accepted
+- 💬 Let's chat
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:93FB9D,100:09C7FB&reversal=true&descAlignY=0&descAlign=100&section=footer">
 
