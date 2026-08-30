@@ -57,9 +57,11 @@
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kaiomendes15&theme=gotham&hide_border=true&exclude_days=Sun" alt="" />
+    <img height="195" src="https://streak-stats.demolab.com?user=kaiomendes15&theme=gotham&hide_border=true&exclude_days=Sun" alt="GitHub streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomendes15&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=30" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=kaiomendes15&langs_count=3&theme=gotham">
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=kaiomendes15&langs_count=3&theme=gotham" alt="Most used languages" />
+  </a>
 </p>
 
 **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
